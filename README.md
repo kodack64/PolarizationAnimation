@@ -1,2 +1,2 @@
 # PolarizationAnimation
-•ÎŒõ‚ÌƒAƒjƒ[ƒVƒ‡ƒ“
+åå…‰ã®å‹•ç”»ä½œæˆ
