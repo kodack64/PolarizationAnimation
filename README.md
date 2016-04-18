@@ -1,2 +1,2 @@
 # PolarizationAnimation
-偏光の動画作成
+出張授業で偏光の説明をするためにOpenGL/CVで動画作成したやつ
